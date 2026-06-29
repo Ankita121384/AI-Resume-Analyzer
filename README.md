@@ -25,3 +25,13 @@ An AI-powered resume analyzer built with Python, Streamlit, and Groq AI that pro
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
+git clone
+https://github.com/Ankita121384/AI-Resume-Analyzer.git
+2. Install dependencies:
+pip install -r requirements.txt
+3. Create a `.env` file and add your Groq API key:
+GROQ_API_KEY=your_key_here
+4. Run the app:
+streamlit run app.py
+## 👩‍💻 About
+Built by **Ankita Dwivedi** as a beginner AI project for internship portfolio.
